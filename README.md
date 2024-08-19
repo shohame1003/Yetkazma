@@ -1,5 +1,3 @@
----
-
 ## Yetkazma🚚📦
 
 **Yetkazma** is a delivery management system that simplifies the process of delivering items, including food and other goods. Whether you're coordinating a fleet of delivery vehicles or managing logistics, **Yetkazma** has you covered.
